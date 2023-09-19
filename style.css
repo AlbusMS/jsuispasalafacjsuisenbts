@@ -1,0 +1,8 @@
+dt, #hyperfake {
+    color: blue;
+    text-decoration: underline;
+}
+
+p {
+    display: inline;
+}
